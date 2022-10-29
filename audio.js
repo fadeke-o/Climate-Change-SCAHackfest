@@ -1,53 +1,30 @@
 Amplitude.init({
    "songs":[
       {
-         "name":"Stress Management - Building Awareness",
-         "url":"./audio/Building_Awareness.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "name":"What is climate change",
+         "url":"./audio/1. What is climate change.aac",
       },
       {
-         "name":"Stress Management - Grounding Exercise 1",
-         "url":"./audio/Grounding_Exercise_1.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "name":"Causes of climate change",
+         "url":"./audio/2. Causes of climate change.aac",
       },
       {
-         "name":"Stress Management - Grounding Exercise 2",
-         "url":"./audio/Grounding_Exercise_2.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "name":"How Climate change has disrupted the environment",
+         "url":"./audio/3. How Climate change has disrupted the environment.aac",
       },
       {
-         "name":"Stress Management - Grounding Exercise 3",
-         "url":"./audio/Grounding_Exercise_3.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "name":"How Climate change has disrupted the environment",
+         "url":"./audio/4. How Climate change has disrupted the environment.aac",
       },
       {
-         "name":"Stress Management - Notice and Name",
-         "url":"./audio/Notice_and_Name.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "name":"Health and Climate change",
+         "url":"./audio/5. Health and Climate change.aac",
       },
       {
-         "name":"Stress Management - Unhooking from Unkind Thoughts",
-         "url":"./audio/Unhooking_from_Unkind_Thoughts.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "name":"How can we fight climate change",
+         "url":"./audio/6. How can we fight climate change.aac",
       },
-      {
-         "name":"Stress Management - Making Room",
-         "url":"./audio/Making_Room.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
-      },
-      {
-         "name":"Stress Management - Being Kind to Yourself",
-         "url":"./audio/Being_kind_to_yourself.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
-      },
+
   
    ]
 });
